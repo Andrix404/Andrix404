@@ -1,66 +1,52 @@
-<!-- 
-👋 Hi there! Welcome to my GitHub profile.
-This README is designed in a modern, dark, techy style — inspired by Mauro de Souza’s Profile README Generator.
--->
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<h1 align="center">Hey 👋, I'm Thidaksha Meghan</h1>
+###
 
-<h3 align="center">💻 Passionate Software Engineer | Creative Coder | Tech Explorer 🚀</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
----
+###
 
-### 🧠 About Me  
-🌟 I’m a technology enthusiast who loves building futuristic and robotic-themed software.  
-⚙️ Skilled across multiple languages and frameworks — from system design to UI perfection.  
-🎯 Always learning, always innovating — I believe in code that’s clean, smart, and impactful.  
-🧩 Currently exploring AI-powered apps, automation, and creative coding.
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
+###
 
-### 🚀 Languages & Tools
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<p align="center">
-  <!-- Core Languages -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,php,python,c,cpp,cs" />
-  <br>
-  <!-- Frameworks & Libraries -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind,sass,mysql,mongodb,sqlite,firebase" />
-  <br>
-  <!-- Tools & Platforms -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma,postman,linux,discord,aws" />
-</p>
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-### 📊 GitHub Stats & Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThidakshaMeghan&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThidakshaMeghan&layout=compact&theme=tokyonight" alt="Most Used Languages" height="165" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ThidakshaMeghan/ThidakshaMeghan/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-### 🎧 Now Playing on Spotify
-<p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThidakshaMeghan&style=flat-square&color=blueviolet" alt="Profile Views" />
-</p>
-
----
-
-### 🖤 Designed & Developed by **Thidaksha Meghan**
+###
