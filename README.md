@@ -59,7 +59,10 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/ThidakshaMeghan/11153360645)
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31zevisfhywvuh4ytftxatsac4o4)
+
 
 
 
